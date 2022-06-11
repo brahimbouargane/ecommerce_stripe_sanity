@@ -175,6 +175,7 @@ span.text-red {
   right: 6%;
   width: 547px;
   height: 583px;
+  z-index: -100;
 }
 
 .desc {
